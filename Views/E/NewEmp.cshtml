@@ -1,0 +1,50 @@
+﻿@using UsersApp.ViewModels;
+@model empleeModel
+@{
+    ViewData["Title"] = "NewEmp";
+}
+<form method="post">
+    <div class="border p-3 mt-4">
+    <div class="row pb-2">
+        <h1 class="text-black">
+            ADD NEW EMPLEE
+
+        </h1>
+    </div>
+    <div class="mb-3">
+        <label asp-for="FullName">Full Name</label>
+         <input asp-for="FullName" class="form-control" />
+
+    </div>
+        <div class="mb-3">
+            <label asp-for="phone">Phone</label>
+            <input asp-for="phone" class="form-control" />
+
+        </div> <div class="mb-3">
+            <label asp-for="salary">SALARY</label>
+            <input asp-for="salary" class="form-control" />
+
+        </div> <div class="mb-3">
+            <label asp-for="role">position</label>
+            <input asp-for="role" class="form-control" />
+
+        </div> <div class="mb-3">
+            <label asp-for="email">EMAIL</label>
+            <input asp-for="email" class="form-control" />
+
+        </div> <div class="mb-3">
+            <label asp-for="JoinDate">DATE</label>
+            <input  asp-for="JoinDate"  type="date" class="" />
+
+        </div>
+    </div> 
+    <button type="submit" class="btn " style="color:rebeccapurple ;background-color: black">ADD</button>
+    
+
+   </div>
+
+
+
+
+</form>
+

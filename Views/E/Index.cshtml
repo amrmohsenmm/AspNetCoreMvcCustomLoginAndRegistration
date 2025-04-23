@@ -1,0 +1,60 @@
+﻿@using UsersApp.ViewModels;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Employee items</h1>
+<table class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>
+               ID
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+              Salary
+            </th>
+            <th>
+                phone
+            </th>
+            <th>
+                email
+            </th>
+            <th>
+             Role
+            </th>
+        </tr>
+    </thead>
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.id</td>
+            <td>@item.FullName</td>
+            <td>@item.salary</td>
+            <td>@item.phone</td>
+            <td>@item.email</td>
+            <td>@item.role</td>
+            
+            <td>
+                <form asp-action="Delete" method="post">
+                    <input type="hidden" name="id" value="@item.id" />
+                    <button type="submit" class="btn btn-danger">Delete</button>
+                </form>
+
+                <form asp-action="UpdateSalary" method="post">
+                    <input type="hidden" name="id" value="@item.id" />
+                    <input type="number" name="newSalary" value="@item.salary" step="0.01" />
+                    <button type="submit" class="btn btn-primary">Update Salary</button>
+                </form>
+            </td>
+        </tr>
+    }
+    <a asp-controller="E" asp-action="NewEmp" class="btn btn-primary">add</a>
+
+</table>
+

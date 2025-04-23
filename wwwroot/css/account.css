@@ -1,5 +1,5 @@
 ﻿.account-container {
-    background-image: url('../images/account-bg.jpg');
+    background-image: url('../img/neospaceaberdeen_laurencehowephoto-257-scaled.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: repeat-y;
@@ -10,7 +10,7 @@
     padding: 2rem 0;
 }
 
-.account-box {
+    .account-box {
     background-color: white;
     padding: 30px;
     border-radius: 10px;

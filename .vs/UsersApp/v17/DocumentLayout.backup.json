@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amr mohsen\\source\\repos\\AspNetCoreMvcCustomLoginAndRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\users\\amr mohsen\\source\\repos\\aspnetcoremvccustomloginandregistration\\controllers\\econtroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:controllers\\econtroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\users\\amr mohsen\\source\\repos\\aspnetcoremvccustomloginandregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\users\\amr mohsen\\source\\repos\\aspnetcoremvccustomloginandregistration\\views\\e\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\e\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\users\\amr mohsen\\source\\repos\\aspnetcoremvccustomloginandregistration\\views\\e\\newemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\e\\newemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\amr mohsen\\source\\repos\\AspNetCoreMvcCustomLoginAndRegistration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\amr mohsen\\source\\repos\\AspNetCoreMvcCustomLoginAndRegistration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAgZWZmZmYkwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T10:38:52.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\amr mohsen\\source\\repos\\AspNetCoreMvcCustomLoginAndRegistration\\Views\\E\\NewEmp.cshtml",
+              "RelativeDocumentMoniker": "Views\\E\\NewEmp.cshtml",
+              "ToolTip": "C:\\Users\\amr mohsen\\source\\repos\\AspNetCoreMvcCustomLoginAndRegistration\\Views\\E\\NewEmp.cshtml",
+              "RelativeToolTip": "Views\\E\\NewEmp.cshtml",
+              "ViewState": "AgIAABkAAABAZWZmZmYUwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T10:31:52.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\amr mohsen\\source\\repos\\AspNetCoreMvcCustomLoginAndRegistration\\Views\\E\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\E\\Index.cshtml",
+              "ToolTip": "C:\\Users\\amr mohsen\\source\\repos\\AspNetCoreMvcCustomLoginAndRegistration\\Views\\E\\Index.cshtml",
+              "RelativeToolTip": "Views\\E\\Index.cshtml",
+              "ViewState": "AgIAAAgAAABAzMzMzAwswAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T09:43:45.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EController.cs",
+              "DocumentMoniker": "C:\\Users\\amr mohsen\\source\\repos\\AspNetCoreMvcCustomLoginAndRegistration\\Controllers\\EController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EController.cs",
+              "ToolTip": "C:\\Users\\amr mohsen\\source\\repos\\AspNetCoreMvcCustomLoginAndRegistration\\Controllers\\EController.cs",
+              "RelativeToolTip": "Controllers\\EController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:29:43.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

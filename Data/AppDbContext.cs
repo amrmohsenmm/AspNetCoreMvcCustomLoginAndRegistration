@@ -1,13 +1,19 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using UsersApp.ViewModels;
 using UsersApp.Models;
 
 namespace UsersApp.Data
 {
     public class AppDbContext : IdentityDbContext<Users>
     {
-        public AppDbContext(DbContextOptions options) : base(options)
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
         }
+       
+
+        public DbSet<empleeModel> Emplees { get; set; }
+
+
     }
 }
